@@ -1,8 +1,4 @@
 ---
-layout: post
+layout: single
 title: "깃허브 첫 블로그"
 ---
-
-# 깃허브 블로그 첫글 등록
-
-테스트 글 작성
